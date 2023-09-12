@@ -5,3 +5,7 @@ function handleClick() {
 function test() {
     console.log("Hello World")
 }
+ 
+function change(){
+    console.log("Changed data")
+}

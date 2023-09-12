@@ -14,14 +14,3 @@ p {
     color: chartreuse;
 }
 
-.test-button {
-    background-color: white;
-    color: blueviolet;
-    padding: 5px 10px;
-    border-radius: 5px;
-}
-
-.test-button:hover {
-    background-color: blueviolet;
-    color: white;
-}
