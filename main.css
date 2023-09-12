@@ -1,0 +1,27 @@
+
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+p {
+    font-size: large;
+}
+
+.second-para {
+    font-family: cursive;
+    color: chartreuse;
+}
+
+.test-button {
+    background-color: white;
+    color: blueviolet;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.test-button:hover {
+    background-color: blueviolet;
+    color: white;
+}
